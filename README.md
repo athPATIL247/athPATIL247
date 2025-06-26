@@ -16,9 +16,9 @@
 
 ## 💫 About Me
 
-- 🎓 BTech CSE '26 @ **IIIT Vadodara**
+- 🎓 BTech CSE '27 @ **IIIT Vadodara**
 - 💻 MERN Stack Developer | Machine Learning Enthusiast
-- 🚀 Participated in 10+ Hackathons (and counting!)
+- 🚀 Passionate about Hackathons 
 - 🔍 Solved **500+** DSA problems  
   ↳ **1755 LeetCode rating**  
 - 🧠 I love solving real-world problems using tech  
