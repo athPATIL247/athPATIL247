@@ -20,7 +20,7 @@
 - 💻 MERN Stack Developer | Machine Learning Enthusiast
 - 🚀 Participated in 10+ Hackathons (and counting!)
 - 🔍 Solved **500+** DSA problems  
-  ↳ **1750+ LeetCode rating**  
+  ↳ **1755 LeetCode rating**  
 - 🧠 I love solving real-world problems using tech  
 - 🛠️ Currently exploring **system design**, **open source**, and **AI+Web**
 
@@ -52,5 +52,5 @@
 
 ```txt
 ✅ Total Questions Solved: 500+
-🟠 LeetCode Rating: 1750+
-📊 Platform: LeetCode, GeeksForGeeks, Codeforces, CodeChef
+🟠 LeetCode Rating: 1755
+📊 Platform: LeetCode, GeeksForGeeks
