@@ -1,39 +1,56 @@
-<!-- GitHub README for Atharva Patil -->
+<!-- GitHub Profile README for Atharva Patil -->
+
+<h1 align="center">
+  Hey there, I'm Atharva 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E96443&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey!+I'm+Atharva+Patil+%F0%9F%91%8B;MERN+Stack+Developer+%7C+DSA+Enthusiast+%7C+ML+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-%239A1663?style=for-the-badge&logo=stackblitz&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-1750%2B-Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hackathons-Passionate-%2303C988?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=Full-Stack+%F0%9F%92%BB+%7C+MERN+Developer+%7C+DSA+Enthusiast+%7C+Hackathon+Addict" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 About Me
-
-🎓 3rd year BTech CSE @ **IIIT Vadodara**  
-💻 MERN Stack Developer • DSA Lover • Hackathon Enthusiast  
-🧠 Solved **500+** DSA problems on LeetCode & GFG  
-🌱 Exploring **Machine Learning** and scalable systems  
-📚 Languages: C, C++, Python, JavaScript, HTML/CSS  
-🧰 Tools: React, Node.js, Express, MongoDB, SQL, Git  
+<h3 align="center">⚡ A passionate web developer and problem solver from India 🇮🇳</h3>
 
 ---
 
-### 🚀 Tech Stack
+## 💫 About Me
 
-```mermaid
-graph TD;
-  Frontend[Frontend 🖌️] --> React
-  Backend[Backend ⚙️] --> Node;
-  Backend --> Express;
-  DB[Database 💾] --> MongoDB;
-  DB --> SQL;
-  Langs[Languages 🔤] --> C;
-  Langs --> C++;
-  Langs --> Python;
-  Langs --> JavaScript;
-  AI[Machine Learning 🤖] --> Python;
+- 🎓 BTech CSE '26 @ **IIIT Vadodara**
+- 💻 MERN Stack Developer | Machine Learning Enthusiast
+- 🚀 Participated in 10+ Hackathons (and counting!)
+- 🔍 Solved **500+** DSA problems  
+  ↳ **1750+ LeetCode rating**  
+- 🧠 I love solving real-world problems using tech  
+- 🛠️ Currently exploring **system design**, **open source**, and **AI+Web**
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,cpp,c,git,github,vscode,mysql,firebase)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaPatil&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Atharva's GitHub Streak](https://streak-stats.demolab.com?user=AtharvaPatil&theme=tokyonight)
+
+</div>
+
+---
+
+## 🚀 LeetCode, GFG & DSA
+
+```txt
+✅ Total Questions Solved: 500+
+🟠 LeetCode Rating: 1750+
+📊 Platform: LeetCode, GeeksForGeeks, Codeforces, CodeChef
