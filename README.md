@@ -52,5 +52,5 @@
 
 ```txt
 ✅ Total Questions Solved: 500+
-🟠 LeetCode Rating: 1755
+🟠 LeetCode Rating: 1842
 📊 Platform: LeetCode, GeeksForGeeks
