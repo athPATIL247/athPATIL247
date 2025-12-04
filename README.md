@@ -20,7 +20,7 @@
 - 💻 MERN Stack Developer | Machine Learning Enthusiast
 - 🚀 Passionate about Hackathons 
 - 🔍 Solved **500+** DSA problems  
-  ↳ **1755 LeetCode rating**  
+  ↳ **1842 LeetCode rating**  
 - 🧠 I love solving real-world problems using tech  
 - 🛠️ Currently exploring **system design**, **open source**, and **AI+Web**
 
