@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=9999&color=00D9FF&center=true&vCenter=true&width=700&height=90&lines=Atharva+Patil" alt="Atharva Patil" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%A1+DSA+Grinder;MERN+Stack+%7C+Real-Time+Apps+%7C+System+Design;Building+cool+sh*t+since+2023;1842+on+LeetCode+%E2%80%94+still+climbing+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%9A%A1+DSA+Grinder;MERN+Stack+%7C+Real-Time+Apps+%7C+System+Design;Building+cool+sh*t+since+2023;1882+on+LeetCode+%E2%80%94+still+climbing+%F0%9F%93%88" alt="Typing SVG" />
 
 <br/>
 
@@ -83,7 +83,7 @@ exploring: System Design · Open Source · AI-powered Web Apps
 
 | Platform | Stats | Link |
 |----------|-------|------|
-| 🟠 LeetCode | **1842 Rating** · **500+ Problems** | [![LeetCode](https://img.shields.io/badge/LeetCode-atharvaspatil10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharvaspatil10/) |
+| 🟠 LeetCode | **1882 Rating** · **500+ Problems** | [![LeetCode](https://img.shields.io/badge/LeetCode-atharvaspatil10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharvaspatil10/) |
 | 🟢 GeeksForGeeks | Active Problem Solver | [![GFG](https://img.shields.io/badge/GeeksForGeeks-Active-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/atharvas8qgg/) |
 
 </div>
