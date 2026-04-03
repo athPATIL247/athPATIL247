@@ -83,7 +83,7 @@ exploring: System Design · Open Source · AI-powered Web Apps
 
 | Platform | Stats | Link |
 |----------|-------|------|
-| 🟠 LeetCode | **1882 Rating** · **500+ Problems** | [![LeetCode](https://img.shields.io/badge/LeetCode-atharvaspatil10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharvaspatil10/) |
+| 🟠 LeetCode | **1882 Rating** · **700+ Problems** | [![LeetCode](https://img.shields.io/badge/LeetCode-atharvaspatil10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharvaspatil10/) |
 | 🟢 GeeksForGeeks | Active Problem Solver | [![GFG](https://img.shields.io/badge/GeeksForGeeks-Active-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/atharvas8qgg/) |
 
 </div>
